@@ -1,8 +1,8 @@
-h1{
-    color: blueviolet;
-    background-color: aqua;
+#myphoto{
+    height: 400px;
+    width: 400px;
+    justify-content: center;
 }
-p{
-    color: azure;
-    background-color: black;
+.defination{
+    color: blue;
 }
